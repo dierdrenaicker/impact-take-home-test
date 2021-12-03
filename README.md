@@ -47,3 +47,6 @@ The student's student number and their allocated project is printed to terminal:
 ```
 "Summarized List: <Summarized List of Numbers>"
 ```
+
+### NB
+The changes to the repository were made from a friends laptop because my laptop crashed, hence why the commits were not made under my name
